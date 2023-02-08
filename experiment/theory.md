@@ -35,13 +35,22 @@ Where n is the number of charge carrier density.<br>
  
  
  
- mnake table as in theory <br>
+Trial. No |	Magnetic Field  (Tesls T)	| Thickness (t)m | Hall current (ma) | Hall Voltage  |RH |
+:--|:--|:--|:--|:--|:-:
+1.|   <br>   |    |   |   |  
+2.|   <br>   |    |   |   |
+3.|   <br>   |    |   |   |
+   <br>
  
  
  <h4> Data for determining the ammeter reading and voltmeter </h4>
- as in teory sugget <br>
  
- 
+Sr. No |	Trial No:	| Current through solenoid | Magnetic field generated | 
+:--|:--|:--|:--|
+1.|   <br>   |    |   |  
+2.|   <br>   |    |   |   
+3.|   <br>   |    |   |   
+    
  
  
  	 	 	 	 	 	 	 	 
