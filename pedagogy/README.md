@@ -29,9 +29,9 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.|   <br>   |    |   
+1.|   <br>   |    |    
 2.|   <br>   |    |   
-3.|   <br>   |    |   
+3.|   <br>   |    |      
 
 <br/>
 <div align="right">
