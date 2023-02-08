@@ -27,11 +27,11 @@
 #### 2. Learning Objectives and Cognitive Level
 
 
-Sr. No |	Learning Objective	| Cognitive Level | Action Verb
+Sr. No |	Learning Objective	| Cognitive Level | Action Verbn | aaa | fff |
 :--|:--|:--|:-:
-1.|   <br>   |    |    
-2.|   <br>   |    |   
-3.|   <br>   |    |      
+1.|   <br>   |    | 
+2.|   <br>   |    |  
+3.|   <br>   |    |  
 
 <br/>
 <div align="right">
