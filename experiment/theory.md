@@ -24,7 +24,7 @@ Due to the distortion in the magnetic field of the charge carriers, the negative
 
  <h4>Calculation of carrier density</h4> <br>
 
- ![image](https://user-images.githubusercontent.com/72906969/217446481-33c878ae-bcd4-46c3-b0b9-80a775cc7f2f.png) <br>
+ <img src="images/Screenshot 2023-02-09 151024.png"> <br>
 Where n is the number of charge carrier density.<br>
 
 
