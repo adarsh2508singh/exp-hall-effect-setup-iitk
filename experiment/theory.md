@@ -18,8 +18,7 @@ Due to the distortion in the magnetic field of the charge carriers, the negative
 
 <h4><b>Calculation of Hall effect coefficient:</b><h4> <br>
   
- ![image](https://user-images.githubusercontent.com/72906969/217446213-8a04635a-fc71-4ee5-a459-cdeb839f5a3f.png)
-<br>
+<img src="images/Screenshot 2023-02-09 150945.png">
 
  
 
