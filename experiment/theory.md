@@ -2,9 +2,7 @@ Hall Effect:<br>
 The principle of the Hall effect states that when a current-carrying conductor or a semiconductor is introduced to a perpendicular magnetic field, a voltage can be measured at the right angle to the current path. This effect of obtaining a measurable voltage is known as the Hall effect. <br>
 The Hall voltage represented as VH is given by the formula:
    
-   ![image](https://user-images.githubusercontent.com/72906969/217445038-f446ae2c-ee0d-48fe-979f-75061286e266.png)  <br>
-
- 
+ <img src="images/Screenshot 2023-02-09 150809.png" >
 Here,<br>
 I is the current flowing through the sensor<br>
 B is the magnetic field strength<br>
