@@ -13,8 +13,7 @@ d is the thickness of the sensor.<br>
 
 When a conductive plate is connected to a circuit with a battery, then a current start flowing. The charge carriers will follow a linear path from one end of the plate to the other end. The motion of charge carriers results in the production of magnetic fields. When a magnet is placed near the plate, the magnetic field of the charge carriers is distorted. This upsets the straight flow of the charge carriers. The force which upsets the direction of flow of charge carriers is known as Lorentz force.<br>
 Due to the distortion in the magnetic field of the charge carriers, the negatively charged electrons will be deflected to one side of the plate and positively charged holes to the other side. A potential difference, known as the Hall voltage will be generated between both sides of the plate which can be measured using a metre.<br>
-![image](https://user-images.githubusercontent.com/72906969/217445292-4582dfc4-f220-4b33-8b27-d5b3df1b8619.png) 
-<br> 
+<img src="images/Screenshot 2023-02-09 152406.png">
 
 <h4><b>Calculation of Hall effect coefficient:</b><h4> <br>
   
