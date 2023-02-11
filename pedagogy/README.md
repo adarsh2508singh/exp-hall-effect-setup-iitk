@@ -5,7 +5,7 @@
 
 
 <br>
-<b> Experiment : Name of the experiment	 <a name="top"></a> <br>
+<b> Experiment :  To study Hall effect and determine Hall coefficient, carrier density and mobility of a given semiconductor material using Hall effect setup. <a name="top"></a> <br>
 </p>
 
 <b>Discipline | Fill your discipline name here <b> 
@@ -27,7 +27,7 @@
 #### 2. Learning Objectives and Cognitive Level
 
 
-Sr. No |	Learning Objective	| Cognitive Level | Action Verbn | aaa | fff |
+Sr. No |	Learning Objective	| Cognitive Level | Action Verbn
 :--|:--|:--|:-:
 1.|   <br>   |    | 
 2.|   <br>   |    |  
