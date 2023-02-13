@@ -108,5 +108,8 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.|  <br> | <br> |   
-2.|  <br> | <br> |
+1.| Simulator will show the option to choose magnetic field Vs current and Hall effect setup experiment. | Suppose Student will choose the 1st option to perform the experiment. |Student will take reading of magnetic field from Gauss meter by varying current.   
+2.|  Simulator allow students to vary current | Student will vary current to know the reading of magnetic field. |To take reading of magnetic field by the aid of Gauss meter.
+3.|  Now simulator will enables both the varying button thickness of probe and hall current .| Student will open Hall effect setup experiment and varying parameters and note the reading of hall Voltage. |To note Hall voltage value
+4.|  Simulator will show a table | Student will fill the table  | To calucalte the value of hall coefficient,carrier density and mobility of semiconductor of materials 
+
