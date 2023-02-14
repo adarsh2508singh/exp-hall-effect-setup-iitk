@@ -1,8 +1,8 @@
 //Your JavaScript goes in here
-//Your JavaScript goes in here
  var ammeter1=0;
  var gauss=0;
  var thickness1=0;
+ var N;
 
 document.getElementById("ammeter1").disabled = true;
 document.getElementById("thickness1").disabled = true;
@@ -49,10 +49,41 @@ function getHallcurrent(id) {
     
     hallcurrent1= document.getElementById(id).value;
       document.getElementById("Hallcurrent-1-display").innerText = hallcurrent1 +" "+"mA";
-      document.getElementById("output1").innerHTML=Number((hallcurrent1*(1.6*10**(-19))*(1.212*10**29)*gauss*10**(-4)*(thickness1)*10**(-3))/((thickness1*10)**2)).toFixed(3);
+      document.getElementById("output1").innerHTML=Number((hallcurrent1*(1.6*10**(-19))*(N)*gauss*10**(-4)*(thickness1)*10**(-3))/((thickness1*10)**2)).toFixed(3);
 
   }
 }
+
+var selectMaterial= document.querySelector('#material-select');
+function getMaterial(id){
+  if(id==='material-select'){
+  if(selectMaterial.value==='Germanium'){
+    N=1.212*10**29;
+
+  }
+   if(selectMaterial.value==='copper'){
+    N=3.04*10**30;
+
+  }
+   if(selectMaterial.value==='gold'){
+    N=4.375*10**30;
+
+  }
+   if(selectMaterial.value==='Al'){
+    N=2.437*10**30;
+
+  }
+
+
+
+  getHallcurrent('Hallcurrent1');
+}
+  return N;
+}
+
+
+
+
 
 const select = document.querySelector("#image-select");
 const image1 = document.querySelector("#Layer_1");
@@ -78,6 +109,8 @@ document.getElementById("Hallcurrent1").disabled = false;
 const needle = document.querySelector("#needle");
 needle.addEventListener("click", function(){
     needle.setAttribute('transform','translate(0,-65)');
+   needle.style.transition = 'transform 2s';
+
     document.getElementById("ammeter1").disabled = false;
   
 });
