@@ -99,7 +99,7 @@
 					}
 
 					.st10 {
-						font-size: 9.8387px;
+						font-size: 12.8387px;
 					}
 
 					.st11 {
@@ -161,7 +161,7 @@
 					}
 
 					.st20 {
-						font-size: 8.4294px;
+						font-size: 10px;
 					}
 
 					.st21 {
@@ -288,7 +288,7 @@
 						<path class="st19"
 							d="M648.6,468.7c-4.3,0-7.8-3.7-7.8-8.4c0-4.6,3.5-8.4,7.8-8.4s7.8,3.7,7.8,8.4S652.9,468.7,648.6,468.7z" />
 						<rect x="561.1" y="433.5" class="st8" width="29.5" height="6.3" />
-						<text transform="matrix(1 0 0 1 561.0632 463.1054)" class="st9 st20">Gauss Meter</text>
+						<text transform="matrix(1 0 0 1 557.0632 463.1054)" class="st9 st20">Gauss Meter</text>
 						<rect x="624.5" y="434.1" class="st8" width="29.5" height="6.3" />
 						<path class="st14" d="M648.6,427.4c-2.3,0-4.2-2-4.2-4.5c0-2.5,1.9-4.5,4.2-4.5s4.2,2,4.2,4.5
 		   C652.8,425.4,650.9,427.4,648.6,427.4z" />
@@ -746,7 +746,9 @@
 				<line class="st32_32" x1="755.4" y1="294.9" x2="732.8" y2="294.9" />
 				<line class="st32_32" x1="648.6" y1="294.9" x2="409.8" y2="294.9" />
 				<line class="st34_34" x1="650.6" y1="463.9" x2="650.6" y2="528.8" />
-				<path class="st35_35" id="move" onclick="move.setAttribute('transform','translate(0,-67)')" d="M419.8,280.8L419.8,280.8c-6.6,0-12-5.4-12-12v-65c0-6.6,5.4-12,12-12l0,0c6.6,0,12,5.4,12,12v65
+   
+   
+   <path class="st35_35" id="move" onclick="move.setAttribute('transform','translate(0,-67)'); move.style.transition = 'transform 2s'; " d="M419.8,280.8L419.8,280.8c-6.6,0-12-5.4-12-12v-65c0-6.6,5.4-12,12-12l0,0c6.6,0,12,5.4,12,12v65
 	C431.8,275.4,426.4,280.8,419.8,280.8z" />
 			</svg>
 
@@ -756,7 +758,7 @@
 		<!-- Layer_1.style.display='none'; -->
 		<!-- <button onclick="Layer_1.style.display='none';aee.style.display='block';  "> click me</button> -->
 
-		<button id="reset" onClick="window.location.reload();">Reset </button>
+	
 
 		<label> Current
 			<input type="range" min="1" max="10" step="0.5" value="0" class="slider" id="ammeter1"
@@ -765,15 +767,15 @@
 		</label>
 		<label >Select Material:
 
-			<select id="material-select">
+			<select id="material-select" onchange="return getMaterial(this.id)">
 
 				<option value="a" selected>Select Material</option>
 
 
-				<option value="">Germanium</option>
-				<option value="3.04*10**30">Copper</option>
-				<option value="4.3757*10**30">Gold</option>
-				<option value="2.4378*10**30">Aluminium</option>
+				<option value="Germanium">Germanium</option>
+				<option value="copper">Copper</option>
+				<option value="gold">Gold</option>
+				<option value="Al">Aluminium</option>
 			</select>
 		</label>
 		<label id="thick"> Thickness
@@ -787,7 +789,7 @@
 			<span id="Hallcurrent-1-display">0 mA </span>
 		</label>
 
-
+		<button id="reset" onClick="window.location.reload();">Reset </button>
 
 	</div>
 	<div>
