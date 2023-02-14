@@ -1,5 +1,4 @@
 /* You CSS goes in here */
-/* You CSS goes in here */
 @import url('https://fonts.googleapis.com/css2?family=Piazzolla:opsz,wght@8..30,200;8..30,300;8..30,400;8..30,900&family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@500;700&display=swap');
 
 *{
@@ -25,7 +24,7 @@ body{
   height: 250px;
   top: 0;
   right: 0;
-  background-color: #f04747;
+  background-color: #fcbcbc;
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 30x;
@@ -33,7 +32,7 @@ body{
 #lists{
   margin-left: 20px;
   padding: 8px 8px 8px 32px;
-  color:white;
+  color:rgb(7, 7, 7);
 }
 .sidepanel a {
   padding: 8px 8px 8px 32px;
@@ -71,10 +70,12 @@ body{
 #move:hover
 {
   fill: #9bf830;
+  cursor: pointer;
 }
 #needle:hover
 {
   fill: #f83030;
+
 }
 
 @keyframes probe{
@@ -140,7 +141,7 @@ li{
     width: 80em;
     height: 57em;
     
-    margin-top: 8em;
+    margin-top: 6em;
     margin-left: auto; 
     margin-right: auto;
     margin-bottom: 4em;
@@ -198,4 +199,10 @@ th{
     border: none;
     border-radius: 15px;
     cursor: pointer;
+  }
+  #reset:hover{
+    background-color: #f8f7f7;
+    color: crimson;
+    border: 0.5px solid crimson;
+  
   }
