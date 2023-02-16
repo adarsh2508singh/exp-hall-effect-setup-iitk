@@ -1,3 +1,4 @@
+<h3> THEORY </h3>
 Hall Effect:<br>
 The principle of the Hall effect states that when a current-carrying conductor or a semiconductor is introduced to a perpendicular magnetic field, a voltage can be measured at the right angle to the current path. This effect of obtaining a measurable voltage is known as the Hall effect. <br>
 The Hall voltage represented as VH is given by the formula:
