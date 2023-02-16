@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Hall effect is useful for the measurement of a semiconductor's?",
+      "question": "1.Hall effect is useful for the measurement of a semiconductor's?",
       "answers": {
         "a": "mobility, carrier concentration and temperature",
         "b": "type (n-type or p-type), conductivity and temperature",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Measurement of Hall coefficient enables the determination of:",
+      "question": "2.Measurement of Hall coefficient enables the determination of:",
       "answers": {
         "a": "Temperature coefficient and thermal conductivity",
         "b": "Mobility and concentration of charge carriers",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
      {
-      "question": "current in the conductor, and to an applied perpendicular to the current. field?",
+      "question": "3.current in the conductor, and to an applied perpendicular to the current. field?",
       "answers": {
         "a": "parallel, electric",
         "b": "transverse, electric",
