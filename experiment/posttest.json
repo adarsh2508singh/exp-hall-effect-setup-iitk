@@ -2,8 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1: Calculate the hall voltage when the magnetic field is 8 A/m 
-current is 4 A, width is 5m and the concentration of carrier is 1020 ?",
+      "question": "1: Calculate the hall voltage when the magnetic field is 8 A/m current is 4 A, width is 5m and the concentration of carrier is 1020 ?",
       "answers": {
         "a": "4.125 V",
         "b": "0.312 V",
