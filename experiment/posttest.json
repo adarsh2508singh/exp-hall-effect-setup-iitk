@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1: Calculate the hall voltage when the magnetic field is 8 A/m current is 4 A, width is 5m and the concentration of carrier is 1020 ?",
+      "question": "1. Calculate the hall voltage when the magnetic field is 8 A/m current is 4 A, width is 5m and the concentration of carrier is 1020 ?",
       "answers": {
         "a": "4.125 V",
         "b": "0.312 V",
@@ -10,16 +10,16 @@
         "d": "0.4 V"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 2",
         "b": "Explanation 2",
         "c": "Explanation 2",
-        "d": "Explanation 2"
+        "d": "Explanation 1  <a href='https://testbook.com/question-answer/calculate-the-hall-voltage-when-the-magnetic-field--6284f82f65cc0cb3cd63efcb'>here</a>"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "2: A hall's effect pick-up can be used for measuring ?",
+      "question": "2. A hall's effect pick-up can be used for measuring ?",
       "answers": {
         "a": "magnetic flux",
         "b": "pressure",
@@ -27,16 +27,16 @@
         "d": "relative humidity"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 2",
         "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "Explanation 1  <a href='https://testbook.com/question-answer/a-halls-effect-pick-up-can-be-used-for-meas--5fa2f803ba1da25b4f8aefa4#:~:text=Hall%20effect%20pick%20up%20can,due%20to%20flow%20of%20current.'>here</a>",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
 {
-"question": "3: The Hall effect ?",
+"question": "3. The Hall effect ?",
       "answers": {
         "a": "is a phenomenon with no practical applications",
         "b": "is used in various sensor applications",
@@ -45,6 +45,40 @@
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. How many pins does the DRV5055-Q1 hall effect sensor have?",
+      "answers": {
+        "a": "One",
+        "b": "Two",
+        "c": "Three",
+        "d": "Four"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 1  <a href='https://www.watelectronics.com/mcq/hall-effect/'>here</a>",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is the standard form QAHE?",
+      "answers": {
+        "a": "Quality Anomalous Hall Effect",
+        "b": "Quantum Anomalous Hall Effect",
+        "c": "Quantum Angle Hall Effect",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://www.watelectronics.com/mcq/hall-effect/'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
